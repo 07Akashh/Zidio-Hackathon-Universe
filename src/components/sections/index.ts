@@ -1,0 +1,9 @@
+export { Hero } from "./Hero";
+export { Features } from "./Features";
+export { Contact } from "./Contact";
+export { UpcomingHackathons } from "./UpcomingHackathons";
+export { Prizes } from "./Prizes";
+export { Sponsors } from "./Sponsors";
+export { Testimonials } from "./Testimonials";
+export { FAQ } from "./FAQ";
+export { Leaderboard } from "./Leaderboard";
